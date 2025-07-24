@@ -6,3 +6,4 @@ https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
 125. Publicando um link da web de forma gratuita
 126. Criando painéis
 127. Compartilhando painéis e criando aplicativos
+128. Definir alertas automáticos por e-mail
