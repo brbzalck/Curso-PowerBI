@@ -3,3 +3,4 @@
 123. Exportando relatório para Power Point e PDF
 124. Power BI free x Power BI Pro
 https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
+125. Publicando um link da web de forma gratuita
