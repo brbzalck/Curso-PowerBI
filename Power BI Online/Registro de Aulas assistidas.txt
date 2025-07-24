@@ -9,3 +9,4 @@ https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
 128. Definir alertas automáticos por e-mail
 129. Criando um aplicativo no Power BI online
 130. Compartilhando o Power BI pelo Teams e SharePoint
+131. Segurança em Nível de Linha (RLS) - Estático
