@@ -1,3 +1,5 @@
 121. Compartilhando o relatório com segurança
 122. Download do arquivo PBIX
 123. Exportando relatório para Power Point e PDF
+124. Power BI free x Power BI Pro
+https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
