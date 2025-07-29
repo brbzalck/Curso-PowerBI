@@ -15,3 +15,4 @@ https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
 134. Instalando e Configurando o Gateway Enterprise
 135. Permissões para o Gateway Enterprise
 136. Agendando Atualizações Automáticas
+137. Criando Fluxos de dados (Dataflows)
