@@ -21,3 +21,4 @@ https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
 140. Usando modelos de dados
 141. Promoção e certificação de Conjuntos de Dados
 142. Exibição da linhagem dos dados
+143. Portal de administração do Power BI
