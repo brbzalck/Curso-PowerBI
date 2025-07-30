@@ -19,3 +19,4 @@ https://www.microsoft.com/pt-br/power-platform/products/power-bi/pricing
 138. Usando o fluxo de dados criado
 139. Criando modelos de dados
 140. Usando modelos de dados
+141. Promoção e certificação de Conjuntos de Dados
