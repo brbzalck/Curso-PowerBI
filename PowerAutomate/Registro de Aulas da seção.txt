@@ -1,3 +1,4 @@
 144. Introdução ao Power Automate
 145. Configuração de Botão como gatilho para um fluxo do Power Automate
 146. Criação de Datasets do Power BI
+147. Criação de Formulário para Registro de Informações
