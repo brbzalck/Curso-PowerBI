@@ -3,3 +3,4 @@
 146. Criação de Datasets do Power BI
 147. Criação de Formulário para Registro de Informações
 148. Criando um fluxo para enviar os dados do Forms para o Power BI
+149. Criação de relatórios e painéis para monitoramento das vendas em tempo real
