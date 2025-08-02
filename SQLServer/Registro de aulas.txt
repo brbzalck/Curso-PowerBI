@@ -1,1 +1,2 @@
 151. Introdução
+152. Instalando o SQL Server e o SQL Server Management Studio
