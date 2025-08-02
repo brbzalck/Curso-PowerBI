@@ -1,0 +1,135 @@
+[33m6df9397[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m 153. Importação da base utilizada no projeto
+[33mc4fdc1b[m 153. Importação da base utilizada no projeto
+[33m2ad5379[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m 152. Instalando o SQL Server e o SQL Server Management Studio]
+[33m0beac48[m 151. Introdução
+[33mc353d21[m 150. Criação de alertas com fluxo do Power Automate
+[33m3198475[m 149. Criação de relatórios e painéis para monitoramento das vendas em tempo real
+[33m734642b[m 148. Criando um fluxo para enviar os dados do Forms para o Power BI
+[33m3825a34[m 147. Criação de Formulário para Registro de Informações
+[33mfaa4d15[m 146. Criação de Datasets do Power BI
+[33m970436f[m 145. Configuração de Botão como gatilho para um fluxo do Power Automate
+[33m6c100e9[m 144. Introdução ao Power Automate
+[33m2214e2d[m 143. Portal de administração do Power BI
+[33mc57a4e3[m 142. Exibição da linhagem dos dados
+[33m66b70e3[m 141. Promoção e certificação de Conjuntos de Dados
+[33m3204845[m 140. Usando modelos de dados
+[33me968ba0[m 139. Criando modelos de dados
+[33ma3ebd38[m 138. Usando o fluxo de dados criado
+[33mdb92215[m 137. Criando Fluxos de dados (Dataflows)
+[33m04f0850[m 136. Agendando Atualizações Automáticas
+[33mb4e2aef[m 135. Permissões para o Gateway Enterprise
+[33m331708c[m 134. Instalando e Configurando o Gateway Enterprise
+[33m982d468[m 133. Instalando e Configurando o Gateway Pessoal
+[33md9d2881[m 132. Segurança em Nível de Linha (RLS) - Dinâmico
+[33medcaa53[m 131. Segurança em Nível de Linha (RLS) - Estático
+[33m8444aa4[m 130. Compartilhando o Power BI pelo Teams e SharePoint
+[33md2fdc91[m 129. Criando um aplicativo no Power BI online
+[33m3f73c4e[m 128. Definir alertas automáticos por e-mail
+[33mb14fa45[m 127. Compartilhando painéis e criando aplicativos
+[33m3d3ec5e[m 126. Criando painéi
+[33m5bfee2c[m 125. Publicando um link da web de forma gratuita
+[33me39ebac[m 124. Power BI free x Power BI Pro
+[33md6caf3f[m 123. Exportando relatório para Power Point e PDF
+[33mbd89090[m 122. Download do arquivo PBIX
+[33m00a423a[m 121. Compartilhando o relatório com segurança
+[33mc298295[m Criando um Workspace e publicando um relatório no Workspace criado
+[33mc79e316[m Exportando o background final para integrar ao Power BI
+[33m6d224c2[m Importando e exportando imagens do Figma
+[33m2bdd65b[m Utilizando ícones a partir de plugins
+[33m9a4924f[m Utilizando textos no Figma
+[33m51c44c8[m Aplicando efeitos e copiando efeitos de um elemento para outro
+[33m8574a20[m Aplicando cores ao design
+[33m38d4142[m Utilização e posicionamento de elementos
+[33m80138d2[m Criação e utilização de Grids
+[33mb31e821[m Criação de frames e suas propriedades
+[33mcaaf1f9[m Publicando o relatório no Power BI online
+[33m940f174[m Criando um visual mobile
+[33mb178a09[m Como obter visuais customizados
+[33mca12d83[m Criando a navegação das páginas
+[33m41da202[m Criando menu da página inicial
+[33m2b5b1b3[m Principais influenciadores
+[33m7413a68[m Criando parâmetros e medidas para gerar cenários de variação de preço
+[33md67a0f4[m Criando uma página para simular variações de preço
+[33m97c3050[m Criando uma medida para gerar um título dinâmico do relatório
+[33madea89d[m Utilizando o Drill-througth para detalhamento das informações
+[33mdf90fa2[m Resolução do desafio de indicadores e seleção
+[33m1f00d2b[m Trabalhando com indicadores e seleção
+[33md143537[m Criar KPI para indicar variação ano x ano
+[33m32c3bb0[m Criando a página de análise ano x ano – parte2
+[33m560704d[m Criando a página de análise ano x ano - parte1
+[33m34e3e15[m 5.15.Trabalhando com Tooltip
+[33m904ecff[m Aplicando formatação condicional em tabela
+[33ma14ae53[m Entendendo mais a fundo as fórmulas DAX
+[33m2fb437a[m Criando visual de árvore hierárquica
+[33m97b7c2c[m Alterando a interação entre os filtros de páginas e visuais
+[33m205484b[m Criando a tela de inicial para acesso ao dashboard
+[33mf284d54[m Criando um visual de ranking
+[33m107758e[m Adicionando KPI e um gráfico com realizado x meta
+[33m2453138[m Adicionando segmentações e textos no visual
+[33mdb3dee9[m Escolha de cores e definição de tema
+[33ma6e794f[m Trabalhando com visuais de mapas e geolocalização
+[33m4dd4918[m resolvendo bug do mapa na conta corporativa
+[33m405ef37[m Colocando a meta por mês e formatando outros gráficos
+[33mcd952d0[m Escolha de gráficos no Power BI
+[33m74fa043[m Visuais de cartão
+[33mb613a84[m Definindo background de página
+[33m02a5f8f[m Calculo do crescimento anual das vendas de um mesmo produto usando CROSSFILTER
+[33m4d4856f[m Calculo do crescimento anual das vendas de um mesmo produto
+[33m7ece993[m Destacando vendas acima da média com medidas
+[33me7e81c0[m Criando um ranking dinâmico de vendedores
+[33m5fb21a7[m RANKX e TOPN
+[33m86150f6[m Totais e médias móveis
+[33m624edf7[m Criando um acumulado de um período dinâmico usando parâmetro
+[33m54fe8a2[m Calculando acumulado usando DATESBETWEEN e acumulado do ano anterior
+[33m8c9b369[m Calculando o acumulado do período
+[33mac804a8[m Filtrando datas futuras
+[33mec95bb2[m Funções de inteligência de tempo para calculara variação anual e mensal
+[33m4bf87ab[m Funções de inteligência de tempo para comparar ano e meses anteriores
+[33me4162e1[m Diferenças entre CALCULATETABLE e FILTER
+[33m675f482[m Usando a Função CALCULATE com ALL e VALUES para detalhar as Metas por período
+[33m9deafaa[m Usando a Função CALCULATE com ALL e VALUES para detalhar as Metas por cidade
+[33m4486ba7[m Aprendendo sobre variáveis no DAX
+[33m863535f[m Utilizando a função ISINSCOPE para apresentar os subtotais
+[33med39a09[m CALCULATE e as Funções de remoção de filtros ALL e ALLSELECT
+[33mc6dd67b[m Modificando a CALCULATE com KEEPFILTERS
+[33mb464361[m Operadores lógicos com a CALCULATE
+[33mee6f8cf[m Função CALCULATE
+[33m068cca4[m Primeiras funções de tabela (FILTER, ALL e VALUES)
+[33mb23eed3[m Resolvendo problema de valores em branco na dimensão
+[33mf1e7523[m Inserindo condicionais IF e SWITCH em colunas calculadas e medidas
+[33ma651aba[m Funções agregadoras iterativas
+[33me88593a[m Primeiras medidas com funções de agregação e contexto
+[33m7b7b73a[m Introdução ao DAX(Diferenças entre Medidas, colunas calculadas e tabelas)
+[33ma00fa3d[m entendendo mais afundo a modelagem de dados e relacionamentos
+[33ma27f2b9[m Concluindo os relacionamentos e entendendo a cardinalidade MM e a direção do
+[33mf0e1730[m Verificando a aba de modelo no Power BI Desktop
+[33m16c35aa[m Otimizando as conexões com parâmetro
+[33md503431[m Criando a coluna condicional para dias úteis
+[33m233a078[m Como calcular os dias úteis de forma dinâmica usando a linguagem M
+[33mb14086a[m Como calcular os dias úteis e adicionar a dCalendário no Power Query
+[33mb8c97f6[m Adicionando uma coluna para ordenar as outras colunas do calendário
+[33m43899dc[m Criando a dimensão calendário apenas digitando código no Editor Avançado –parte2
+[33m5b634ec[m Criando a dimensão calendário apenas digitando código no Editor Avançado –parte1
+[33mb9aaf7f[m Resolvendo problema de referencia usando funções da linguagem M
+[33m42fcd9c[m Refazendo as transformações e testando a adição de novos arquivos - corrigido
+[33mc8520c8[m Entendendo os conceitos de Listas, Registros e Tabelas
+[33m72d1bd6[m Refatorando o projeto para funcionar em qualquer máquina com  ogithub
+[33m9d7812b[m Refazendo as transformações e testando a adição de novos arquivos
+[33m75530f5[m Refazendo a importação utilizando a função Excel.Workbook - parte2
+[33m35f272d[m Refazendo a importação utilizando a função Excel.Workbook - parte1
+[33mbaaa25b[m Modificando o arquivo de exemplo
+[33m086773c[m Importação da pastas e combinação de arquivos automática
+[33m97ad82c[m Organizando as consultas em pastas
+[33mc61a54d[m Criando a dimensão vendedores
+[33m20a9bf5[m Concluindo a tabela fato de Vendas e criando as dimensões produtos e clientes
+[33mb3e1c29[m Entendendo as diferenças entre tabelas fato e dimensão
+[33m72cf0b2[m Importando os dados de uma pasta e realizando as primeiras transformações
+[33mca443c2[m Publicando o relatório no Power BI online
+[33m6348fd7[m Filtros e segmentação de dados
+[33m4413f22[m Formatação condicional no Power BI
+[33m67d0dd6[m Formatando Matriz no Power BI Desktop
+[33m705aef7[m Mudando o background e o tema no Power BI Desktop
+[33m0525788[m Criando os primeiros visuais
+[33me1ac815[m Drill down no visual do Power BI
+[33ma6b39c3[m Criando as primeiras medidas com funções básicas do DAX
+[33m6813cdc[m first commit
