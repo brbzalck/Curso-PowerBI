@@ -3,3 +3,4 @@
 153. Importação da base utilizada no projeto
 154. Conhecendo o Banco de dados CONTOSO
 155. Criando as primeiras consultas
+156. Renomeando colunas
