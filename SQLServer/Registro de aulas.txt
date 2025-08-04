@@ -1,3 +1,4 @@
 151. Introdução
 152. Instalando o SQL Server e o SQL Server Management Studio
 153. Importação da base utilizada no projeto
+154. Conhecendo o Banco de dados CONTOSO
