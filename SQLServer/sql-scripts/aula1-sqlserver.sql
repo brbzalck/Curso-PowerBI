@@ -1,6 +1,7 @@
 SELECT
 	FirstName AS nome,
-	BirthDate AS sobrenome,
+	BirthDate AS aniversario,
 	EmailAddress AS email
 FROM
 	DimEmployee
+ORDER BY aniversario

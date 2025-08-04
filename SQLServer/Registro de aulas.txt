@@ -4,3 +4,4 @@
 154. Conhecendo o Banco de dados CONTOSO
 155. Criando as primeiras consultas
 156. Renomeando colunas
+157. Ordenar com SQL
