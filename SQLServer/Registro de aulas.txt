@@ -8,3 +8,4 @@
 158. Filtrar com SQL utilizando o WHERE
 159. Operadores lógicos
 160. Funções de agregação
+161. Criando agrupamentos com GROUP BY
