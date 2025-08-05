@@ -6,3 +6,4 @@
 156. Renomeando colunas
 157. Ordenar com SQL
 158. Filtrar com SQL utilizando o WHERE
+159. Operadores lógicos

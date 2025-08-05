@@ -2,4 +2,5 @@ SELECT
 	*
 FROM
 	DimEmployee
-WHERE StartDate >= '2000-01-01'
+-- WHERE StartDate BETWEEN '2000-01-01' AND '2000-12-31'
+WHERE EndDate IS NOT NULL
