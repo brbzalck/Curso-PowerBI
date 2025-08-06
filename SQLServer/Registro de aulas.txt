@@ -10,3 +10,4 @@
 160. Funções de agregação
 161. Criando agrupamentos com GROUP BY
 162. Como usar o JOIN no SQL
+163. Criando a dimensão produto
