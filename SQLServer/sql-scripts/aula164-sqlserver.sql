@@ -4,6 +4,14 @@
 -- SELECT * FROM DimGeography
 -- SELECT * FROM DimCustomer
 
+/*
+CREATE VIEW
+ALTER VIEW
+DROP VIEW
+
+*/
+
+CREATE VIEW vwCliente AS
 SELECT 
 	CustomerKey AS 'Id Cliente',
 	CASE
@@ -26,4 +34,3 @@ LEFT JOIN DimGeography as g
 
 
 
--- WHERE CustomerType != 'Person'

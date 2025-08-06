@@ -5,6 +5,14 @@
 -- SELECT * FROM DimProductSubcategory
 -- SELECT * FROM DimProductCategory
 
+/*
+CREATE VIEW
+ALTER VIEW
+DROP VIEW
+
+*/
+
+CREATE VIEW vwProduto AS
 SELECT
 	ProductKey AS 'Id Produto',
 	ProductName AS	'Nome',

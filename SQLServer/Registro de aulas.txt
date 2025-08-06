@@ -12,3 +12,5 @@
 162. Como usar o JOIN no SQL
 163. Criando a dimensão produto
 164. Criando a dimensão cliente
+165. Usando a função condicional CASE
+166. Como transformar as consultas em Views
