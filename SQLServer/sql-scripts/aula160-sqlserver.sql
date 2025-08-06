@@ -18,6 +18,15 @@ SELECT
 FROM 
 	FactSales
 
-SELECT COUNT(*) AS 'Qtd produtos' FROM DimProduct
-
 SELECT DISTINCT COUNT(ProductKey) FROM FactSales
+
+SELECT TOP (10) * FROM DimProduct
+
+-- Quantidade de produtos por marca
+SELECT
+	BrandName,
+	COUNT(*) AS 'Qtd produtos'
+FROM 
+	DimProduct
+GROUP BY BrandName
+	
