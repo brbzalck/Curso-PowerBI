@@ -17,3 +17,4 @@
 167. Importando os dados do banco de dados SQL no Power BI
 168. Publicando o relatório no Power BI online e configurando o Gateway
 169. Outros tipos de conexão no Power BI – OneDrive
+170. Outros tipos de conexão no Power BI - SharePoint
