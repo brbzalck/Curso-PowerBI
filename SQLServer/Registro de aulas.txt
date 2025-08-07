@@ -15,3 +15,5 @@
 165. Usando a função condicional CASE
 166. Como transformar as consultas em Views
 167. Importando os dados do banco de dados SQL no Power BI
+168. Publicando o relatório no Power BI online e configurando o Gateway
+169. Outros tipos de conexão no Power BI – OneDrive
