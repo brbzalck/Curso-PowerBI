@@ -14,3 +14,4 @@
 164. Criando a dimensão cliente
 165. Usando a função condicional CASE
 166. Como transformar as consultas em Views
+167. Importando os dados do banco de dados SQL no Power BI
